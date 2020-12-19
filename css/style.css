@@ -1,0 +1,30 @@
+.fbtn{
+    padding-top: 250px;
+    font-weight: bold;
+
+}
+.fbtnt{
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.btnb{
+    padding-left: 500px;
+    margin-bottom: 30px;
+}
+.btnbb{
+    padding-left: 230px;
+}
+.yes{
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+.no{
+    
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    
+}
